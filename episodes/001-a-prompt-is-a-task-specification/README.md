@@ -1,6 +1,6 @@
 <!-- GENERATED FROM PRIVATE LEARNER MATERIALS; EDIT THE PRODUCTION SOURCE. -->
 
-# Lesson 01 / Lezione 01 — Tell the AI what you need / Spiega all’IA cosa ti serve
+# E001 — Tell the AI what you need / Spiega all’IA cosa ti serve
 
 ## English
 
